@@ -1,2 +1,0 @@
-# manajemen-sampah
-web
